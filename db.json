@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Авторский нож Артемида",
+      "price": 79000,
+      "img": "/img/knife_1.png",
+      "category": 2
+    },
+    {
+      "id": 2,
+      "name": "Нож русский",
+      "price": 28000,
+      "img": "/img/knife_2.png",
+      "category": 3
+    },
+    {
+      "id": 3,
+      "name": "Нож ворон",
+      "price": 46000,
+      "imageUrl": "/img/knife_3.png",
+      "category": 4
+    }
+]
